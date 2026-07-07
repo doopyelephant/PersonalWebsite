@@ -1,0 +1,32 @@
+﻿.profile {
+  clip-path: circle(50% at 50% 50%);
+  border: 5px solid #ffffff;
+  border-radius: 50%;
+}
+.social-link-container {
+  background: #605c66;
+  border-radius: 999px;
+  display: flex;
+}
+.social-link {
+  color: #ffffff;
+}
+
+.center-block {
+  width: 50%;
+  margin: 0 auto;
+  text-align: center;
+}
+body {
+  font-family: Oswald, sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 1000;
+  font-size: 250%;
+  font-style: normal;
+  background-color: #151317;
+}
+h1 {
+  padding-bottom: 100px;
+  color: #ffffff;
+}
+
