@@ -7,9 +7,14 @@
   background: #605c66;
   border-radius: 999px;
   display: flex;
+  justify-content: flex-end;
+  width: 200px;
+  margin-top: 50px;
 }
 .social-link {
   color: #ffffff;
+  text-decoration: none;
+  align-self: center;
 }
 
 .center-block {
