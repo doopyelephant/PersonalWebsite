@@ -8,19 +8,25 @@
   border-radius: 999px;
   display: flex;
   justify-content: flex-end;
-  width: 200px;
-  margin-top: 50px;
+  width: 220px;
+  margin: 20px;
 }
 .social-link {
   color: #ffffff;
   text-decoration: none;
   align-self: center;
+  font-size: 30px;
+  padding: 10px;
 }
 
 .center-block {
-  width: 50%;
+  width: 100%;
+  justify-content: center;
   margin: 0 auto;
   text-align: center;
+}
+.flex-container {
+  display: flex;
 }
 body {
   font-family: Oswald, sans-serif;
